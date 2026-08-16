@@ -1,16 +1,46 @@
-## Hi there 👋
+# M0xionn
 
-<!--
-**M0xionn/M0xionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student
 
-Here are some ideas to get you started:
+Python • Linux • Git • Backend • Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learn by building real projects and understanding how they work under the hood.
+
+---
+
+## 🚀 Featured Projects
+
+### Living World Lab
+An experimental simulation where simple rules create complex behavior.
+
+Exploring agents, society, economy, infrastructure, technology and emergent behavior.
+
+---
+
+## 🛠 Technologies & Tools
+
+- Python
+- Linux
+- Git & GitHub
+- SQL
+- APIs
+- Networking
+- Backend development
+
+---
+
+## 📚 Currently Learning
+
+Software engineering through practical projects, experiments and continuous development.
+
+---
+
+## 🎯 Focus
+
+Building real software, improving engineering skills and understanding systems from the inside out.
+
+---
+
+## 📌 Currently Building
+
+More projects coming soon.
